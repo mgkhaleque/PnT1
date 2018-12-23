@@ -2,8 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Project1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Project1/Project1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Project1" vcs="CVS" />
+    <mapping directory="$PROJECT_DIR$/Project1/Project1" vcs="CVS" />
+    <mapping directory="$PROJECT_DIR$/random" vcs="CVS" />
     <mapping directory="$PROJECT_DIR$/src/random" vcs="Git" />
   </component>
 </project>
